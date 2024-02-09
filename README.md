@@ -4,7 +4,7 @@ description: Introduction to Omics
 
 # Introduction
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Omics: Decentralized Omics Graphs of the Earth, by population, for individual</p></figcaption></figure>
+<figure><img src=".gitbook/assets/title-page.png" alt=""><figcaption><p>Omics: Decentralized Omics Graphs of the Earth, by population, for individual</p></figcaption></figure>
 
 ## Insights
 
