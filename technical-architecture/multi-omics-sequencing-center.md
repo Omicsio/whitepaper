@@ -1,6 +1,6 @@
 # Multi-Omics Sequencing Center
 
-<figure><img src=".gitbook/assets/t20.png" alt=""><figcaption><p>Ultra high through-put sequencer based Multi-Omics Sequencing Center</p></figcaption></figure>
+<figure><img src=".gitbook/assets/T20.png" alt=""><figcaption><p>Ultra high through-put sequencer based Multi-Omics Sequencing Center</p></figcaption></figure>
 
 Nowadays, multi-omics data generation relays on utlra through-put sequencers and other large biotech equipments. Omics will partner with existing multi-omics sequencing centers and build new multi-omics sequencing centers in selected areas.
 
