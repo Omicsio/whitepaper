@@ -2,11 +2,15 @@
 description: Introduction to Omics
 ---
 
+![Human Aging](.gitbook/assets/aging.png)
+
 # Introduction
 
-<figure><img src=".gitbook/assets/title-page.png" alt=""><figcaption><p>Omics: Decentralized Omics Graphs of the Earth, by population, for individual</p></figcaption></figure>
+Omics is a DeSci Network for Human Longevity driven by Multi-Omics and AI.
 
 ## Insights
+
+![Multi-Omics and AI driven Human Longevity R&D and Applications](.gitbook/assets/circle.png)
 
 Life science is transferring from experiment-driven to data-driven;
 
