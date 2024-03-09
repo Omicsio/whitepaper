@@ -12,32 +12,32 @@ Omics is a DeSci Network for Human Longevity driven by Multi-Omics and AI.
 
 ![Multi-Omics and AI driven Human Longevity R&D and Applications](.gitbook/assets/circle.png)
 
-Life science is transferring from experiment-driven to data-driven;
+Human Longevity stands as the focal point in life science, transitioning from an experience or experiment-driven to a data and AI-driven paradigm.
 
-High-throughput multi-omics, including but not limited to genomics, transcriptomics, epigenomics, proteomics, and phenomics, technologies can generate comprehensive data of each individual or cell;
+Multi-omics data from large-scale populations is instrumental in quantifying and comprehending human longevity. This approach facilitates the identification of aging biomarkers and the development of anti-aging medicines.
 
-Large-scale population’s omics data can help us understand the world and ourself and is the fundamental to develop new drugs and therapy methods;
+Decentralized technologies, including blockchain, zero-knowledge proof, federated artificial intelligence, and decentralized storage, can unlock the value of multi-omics data in longevity research and applications while ensuring data ownership, privacy protection, and compliance with regulatory policies.
 
-Genomics data is the most important and fundamental omics data;&#x20;
-
-Decentralized technology stack, including but not limited to blockchain, Zero-knowledge proof, federal AI and decentralized storage solution, can ensure the ownership of individual's omics data and privacy, and unlock the power of population data.
+Tokenomics incentivizes various participants, including users, app developers, service providers, multi-omics sequencing centers, operators, scientists, and others, to contribute their sample, omics data, sequencing capability and specialized expertise towards advancing human longevity.
 
 ## Challenges
 
-* High cost to accumulate omics data and follow up:
-  * The cost of omics data generation is high, \~150USD for one 30x human whole genome sequencing
-  * The cost of phenotype collecting and follow-up in traditional cohort study is high, UK Biobank and AllofUs as example.
-  * People are not benefit from the rapid development of omics technologies and don’t have passionate to donate sample and data, and participate research projects.
-* Ownership and privacy protection:
-  * Accumulated omics data is invaluable for biomedical R\&D
-  * Personal omics data is the most fundamental privacy for everyone and affect not only ourself, but also our family.
+* High cost to accumulate multi-omics data for longevity
+  * Generating omics data, such as whole-genome epigenomics sequencing, incurs a substantial cost, approximately $500 USD per individual.
+  * Traditional longevity-related studies, exemplified by initiatives like UK Biobank and All of Us, face high costs in phenotype collection and multi-omics data generation.
+* Limited Public Engagement:
+  * Despite rapid developments in omics technologies, there is a lack of public enthusiasm to donate samples and participate in research projects. 
+  * The general population does not fully benefit from the advancements in omics technologies.
+* Ownership and Privacy Concerns:
+  * Omics data is invaluable for human longevity research and development.
+  * Individual multi-omics data constitutes a fundamental aspect of personal privacy, impacting not only the individual but also their family.
 * Regulation:
-  * Every government put tight regulations on omics, especially genomics data, to protect privacy and biosafety.
-  * Omics R\&D and applications have to obey all these various regulation policies.
+  * Governments globally impose stringent regulations on omics data, particularly genomics data, to safeguard privacy and biosafety.
+  * Compliance with these diverse regulatory policies is essential for omics R&D and applications. 
 
 ## Solutions
 
-A Decentralized Storage and Analysis Network with Tokenomics is the unparalleled solution to unleash the full potential of Multi-Omics to enable groundbreaking advancements in biomedical research and application.
+A Decentralized Storage and Analysis Network with Tokenomics is the unparalleled solution to unleash the full potential of Multi-Omics to enable groundbreaking advancements in human longevity research and application.
 
 * Decentralized technologies to ensure ownership and protect privacy:
   * Immutability of blockchain ensure everyone’s ownership of omics data.
@@ -48,8 +48,12 @@ A Decentralized Storage and Analysis Network with Tokenomics is the unparalleled
 
 ## Vision
 
-Enabling groundbreaking advancements in biomedical research and development by harnessing the potential of a globally decentralized network of omics graphs.
+The healthspan for 100 years!
 
-Our vision is to create a dynamic ecosystem that efficiently manages and leverages omics data and applications, fostering collaboration and innovation.
+Enabling groundbreaking advancements in human longevity research and development by harnessing the potential of a globally decentralized network of multi-omics data and AI technologies. 
 
-Through this transformative approach, we aim to revolutionize the landscape of healthcare, ultimately contributing to a healthier and brighter future for all species, populations and every individuals, and the planet we are living.
+Our vision is to create an active ecosystem that efficiently manages and leverages multi-omics data and AI technologies, fostering human longevity collaboration and innovation, helping the Omics participants enjoy a 100 years healthspan.
+
+## Comparison
+
+![alt text](.gitbook/assets/comparison-table.png)
